@@ -32,5 +32,5 @@ log.L().Info("这是debug信息", zap.String("hello","golang"))
 
 ## 默认日志级别
 
-**控制台：** DEBUG。
+**控制台：** DEBUG。  
 **文件：** INFO。
